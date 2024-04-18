@@ -1,5 +1,6 @@
-WATCHMEN BOT FOR CREATE 04.2024
+NETWORK AI BOT FOR CREATE 04.2024
 
-Create 'data' and 'docs' folder.
-
-`pip install langchain langchain-openai pypdf openai chromadb tiktoken docx2txt`
+1. Create 'data' and 'docs' folder.
+2. Run: `pip install langchain langchain-openai pypdf openai chromadb tiktoken docx2txt`
+3. Put pdf/text files in 'docs' folder.
+4. Execute!
